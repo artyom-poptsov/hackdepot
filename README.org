@@ -1,2 +1,6 @@
 * Hackdepot
   A hackerspace equipment management system.
+
+** Requirements
+   - [[https://www.gnu.org/software/guile/][GNU Guile]] 2.2
+   - [[https://github.com/artyom-poptsov/guile-deck][Guile-Deck]]
