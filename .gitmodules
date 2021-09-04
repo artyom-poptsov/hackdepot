@@ -1,0 +1,6 @@
+[submodule "guile-dbi"]
+	path = guile-dbi
+	url = https://github.com/opencog/guile-dbi.git
+[submodule "guile-pg"]
+	path = guile-pg
+	url = https://git.savannah.gnu.org/git/guile-pg.git

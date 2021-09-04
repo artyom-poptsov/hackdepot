@@ -1,0 +1,2 @@
+* Hackdepot
+  A hackerspace equipment management system.
